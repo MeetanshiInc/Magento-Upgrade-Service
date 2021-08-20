@@ -21,6 +21,7 @@ And many more…
  
 
 **Why choose Meetanshi for Magento Upgrade Service?**
+
 We follow a systematic approach to Magento Upgrade Service which is as follows:
  
 * Cloning Your Store for Staging Server
